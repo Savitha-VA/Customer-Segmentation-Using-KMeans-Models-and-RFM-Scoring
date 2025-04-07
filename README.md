@@ -20,7 +20,7 @@ This project allows businesses to understand and segment their customers using u
   - scikit-learn 
   - matplotlib, seaborn 
 - **Streamlit** 
-- **Colab / Jupyter Notebook** (for model development)
+- **Google Colab** 
 
   ## Features
 
